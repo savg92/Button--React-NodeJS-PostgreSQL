@@ -16,7 +16,7 @@ const Exercise: React.FC = () => {
 					registrar que se apretó un botón y de contar cuantas veces se apretó
 					cada botón.
 				</p>
-				<ol className='list text-left'>
+				<ol className='list text-left list-decimal'>
 					Construir una aplicación React que:
 					<li>
 						Muestre los botones creados cuyo texto el numero de botón con un
