@@ -1,6 +1,31 @@
 # totalCoinTest
 
-# Índice
+# Table of Contents
+- [totalCoinTest](#totalcointest)
+- [Problema](#problema)
+- [Se requiere](#se-requiere)
+- [Adicional](#adicional)
+- [Requisitos](#requisitos)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Tecnologías y Agradecimientos](#tecnologías-y-agradecimientos)
+- [Autor](#autor)
+- [Licencia](#licencia)
+
+- [Language / Idioma:](#language--idioma)
+  - [Español](#español)
+  - [English](#english)
+- [Exercise](#exercise)
+- [Required](#required)
+- [Additional](#additional)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies and Acknowledgments](#technologies-and-acknowledgments)
+- [Author](#author)
+- [License](#license)
+
+# Language / Idioma:
 Language / Idioma:
 - [Español](#español)
 - [English](#english)
