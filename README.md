@@ -1,7 +1,9 @@
 # totalCoinTest
 
 # Table of Contents
-- [totalCoinTest](#totalcointest)
+- [Language / Idioma:](#language--idioma)
+  - [Español](#español)
+  - [English](#english)
 - [Problema](#problema)
 - [Se requiere](#se-requiere)
 - [Adicional](#adicional)
@@ -12,9 +14,6 @@
 - [Autor](#autor)
 - [Licencia](#licencia)
 
-- [Language / Idioma:](#language--idioma)
-  - [Español](#español)
-  - [English](#english)
 - [Exercise](#exercise)
 - [Required](#required)
 - [Additional](#additional)
