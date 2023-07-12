@@ -1,9 +1,10 @@
 # totalCoinTest
 
-<!-- link to section in spanish and section in english -->
+# Índice
+Language / Idioma:
 - [Español](#español)
 - [English](#english)
-### Español
+## Español
 
 ## Problema
 Se busca crear una aplicación que sirva para contar la cantidad de veces que se apretaron botones.
@@ -55,37 +56,7 @@ npm run dev
 3. Se podra hacer click en cada botón para aumentar el contador de veces que se ha presionado.
 4. Para eliminar un botón, presionar el botón con el ícono de basurero al lado del botón que se desea eliminar.
 
-# Tecnologías
-Backend:
-- Node.js
-- Express
-- Sequelize
-- Sequelize-cli
-- PostgreSQL
-- Cookie Parser
-- Cors
-- Debug
-- Http Errors
-- Jade
-- Morgan
-- Nodemon
-- Pg
-
-Frontend:
-- Vite
-- React
-- TypeScript
-- Tailwind CSS
-- Axios
-- React Dom
-
-# Autor
-- [Santiago Valenzuela](https://github.com/savg92)
-
-# Licencia
-[MIT](https://choosealicense.com/licenses/mit/)
-
-# Agradecimientos
+# Tecnologías yAgradecimientos
 Backend:
 - [Node.js](https://nodejs.org/es/)
 - [Express](https://expressjs.com/es/)
@@ -109,7 +80,14 @@ Frontend:
 - [Axios](https://axios-http.com/)
 - [React Dom](https://es.reactjs.org/docs/react-dom.html)
 
-### English
+# Autor
+- [Santiago Valenzuela](https://github.com/savg92)
+
+# Licencia
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## English
 
 ## Problem
 An application is sought to count the number of times buttons were pressed.
@@ -162,36 +140,6 @@ npm run dev
 3. You can click on each button to increase the counter of times it has been pressed.
 4. To delete a button, press the button with the trash can icon next to the button you want to delete.
 
-# Technologies
-Backend:
-- Node.js
-- Express
-- Sequelize
-- Sequelize-cli
-- PostgreSQL
-- Cookie Parser
-- Cors
-- Debug
-- Http Errors
-- Jade
-- Morgan
-- Nodemon
-- Pg
-
-Frontend:
-- Vite
-- React
-- TypeScript
-- Tailwind CSS
-- Axios
-- React Dom
-
-# Author
-- [Santiago Valenzuela](https://github.com/savg92)
-
-# License
-[MIT](https://choosealicense.com/licenses/mit/)
-
 # Acknowledgements
 Backend:
 - [Node.js](https://nodejs.org/es/)
@@ -215,3 +163,9 @@ Frontend:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Axios](https://axios-http.com/)
 - [React Dom](https://es.reactjs.org/docs/react-dom.html)
+
+# Author
+- [Santiago Valenzuela](https://github.com/savg92)
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
