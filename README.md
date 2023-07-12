@@ -56,7 +56,7 @@ npm run dev
 3. Se podra hacer click en cada botón para aumentar el contador de veces que se ha presionado.
 4. Para eliminar un botón, presionar el botón con el ícono de basurero al lado del botón que se desea eliminar.
 
-# Tecnologías yAgradecimientos
+# Tecnologías y Agradecimientos
 Backend:
 - [Node.js](https://nodejs.org/es/)
 - [Express](https://expressjs.com/es/)
@@ -140,7 +140,7 @@ npm run dev
 3. You can click on each button to increase the counter of times it has been pressed.
 4. To delete a button, press the button with the trash can icon next to the button you want to delete.
 
-# Acknowledgements
+# Acknowledgements and Technologies
 Backend:
 - [Node.js](https://nodejs.org/es/)
 - [Express](https://expressjs.com/es/)
