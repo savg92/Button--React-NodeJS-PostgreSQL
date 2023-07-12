@@ -89,7 +89,7 @@ Frontend:
 
 ## English
 
-## Problem
+## Exercise
 An application is sought to count the number of times buttons were pressed.
 # Required
 Build a Rest API that is capable of creating buttons, registering that a button was pressed and counting how many times each button was pressed.
