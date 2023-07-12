@@ -1,9 +1,12 @@
 # totalCoinTest
 
-# Table of Contents
-- [Language / Idioma:](#language--idioma)
-  - [Español](#español)
-  - [English](#english)
+# Language / Idioma:
+Language / Idioma:
+- [Español](#español)
+- [English](#english)
+
+## Español
+# Tabla de Contenido
 - [Problema](#problema)
 - [Se requiere](#se-requiere)
 - [Adicional](#adicional)
@@ -13,22 +16,6 @@
 - [Tecnologías y Agradecimientos](#tecnologías-y-agradecimientos)
 - [Autor](#autor)
 - [Licencia](#licencia)
-
-- [Exercise](#exercise)
-- [Required](#required)
-- [Additional](#additional)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies and Acknowledgments](#technologies-and-acknowledgments)
-- [Author](#author)
-- [License](#license)
-
-# Language / Idioma:
-Language / Idioma:
-- [Español](#español)
-- [English](#english)
-## Español
 
 ## Problema
 Se busca crear una aplicación que sirva para contar la cantidad de veces que se apretaron botones.
@@ -112,6 +99,16 @@ Frontend:
 
 
 ## English
+# Table of Contents
+- [Exercise](#exercise)
+- [Required](#required)
+- [Additional](#additional)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies and Acknowledgments](#technologies-and-acknowledgments)
+- [Author](#author)
+- [License](#license)
 
 ## Exercise
 An application is sought to count the number of times buttons were pressed.
