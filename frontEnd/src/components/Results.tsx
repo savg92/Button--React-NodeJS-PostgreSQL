@@ -51,34 +51,12 @@ const Results: React.FC = () => {
 		<>
 			<section className='createButtonsSection border-2 border-white rounded-md p-4 w-full flex flex-col gap-6 justify-between'>
 				<h3 className='text-center text-2xl'>Resultado</h3>
-				<div className='createButtons '>
-					{/* <AddBttn /> */}
-					<button
-						className='addButton border-spacing-2 border-2 border-white rounded-md p-2 w-40 flex flex-row hover:bg-gray-700 hover:border-gray-700 transition duration-500 ease-in-out'
-						onClick={handleAddBtn}
-					>
-						<p className='w-full text-center flex justify-between'>
-							Agregar botón
-							<svg
-								xmlns='http://www.w3.org/2000/svg'
-								fill='none'
-								viewBox='0 0 24 24'
-								strokeWidth='1.5'
-								stroke='currentColor'
-								className='w-6 h-6'
-							>
-								<path
-									strokeLinecap='round'
-									strokeLinejoin='round'
-									d='M12 4.5v15m7.5-7.5h-15'
-								/>
-							</svg>
-						</p>
-					</button>
-				</div>
 				<div className='buttonsContainer flex flex-col gap-4 justify-center'>
 					{data.buttons.map((item) => (
-						<div className='flex flex-row gap-4 justify-center' key={item.id}>
+						<div
+							className='flex flex-row gap-4 justify-center'
+							key={item.id}
+						>
 							<button
 								className='button border-spacing-2 border-2 border-white rounded-md p-2 w-56 flex flex-row hover:bg-gray-700 hover:border-gray-700 transition duration-500 ease-in-out'
 								onClick={() => handleClick(item.id)}
@@ -106,6 +84,31 @@ const Results: React.FC = () => {
 							</button>
 						</div>
 					))}
+				</div>
+				<div className='createButtons '>
+					{/* <AddBttn /> */}
+					<button
+						className='addButton border-spacing-2 border-2 border-white rounded-md p-2 w-40 flex flex-row hover:bg-gray-700 hover:border-gray-700 transition duration-500 ease-in-out'
+						onClick={handleAddBtn}
+					>
+						<p className='w-full text-center flex justify-between'>
+							Agregar botón
+							<svg
+								xmlns='http://www.w3.org/2000/svg'
+								fill='none'
+								viewBox='0 0 24 24'
+								strokeWidth='1.5'
+								stroke='currentColor'
+								className='w-6 h-6'
+							>
+								<path
+									strokeLinecap='round'
+									strokeLinejoin='round'
+									d='M12 4.5v15m7.5-7.5h-15'
+								/>
+							</svg>
+						</p>
+					</button>
 				</div>
 			</section>
 		</>
