@@ -1,5 +1,3 @@
-# totalCoinTest
-
 # Language / Idioma:
 Language / Idioma:
 - [Español](#español)
